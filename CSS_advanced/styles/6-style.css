@@ -1,4 +1,4 @@
-/* Task 6 - Font weight variables */
+/* Task 6 - Variables for font-weight */
 
 :root {
   --font-size-small: 1.2rem;
@@ -14,6 +14,7 @@
   --font-weight-bold: 700;
 }
 
+/* Base font scaling */
 html {
   font-size: 62.5%;
 }
