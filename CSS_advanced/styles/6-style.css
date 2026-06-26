@@ -14,7 +14,6 @@
   --font-weight-bold: 700;
 }
 
-/* base font sizing system */
 html {
   font-size: 62.5%;
 }
@@ -25,7 +24,6 @@ body {
   font-weight: var(--font-weight-regular);
 }
 
-/* headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-title);
   font-weight: var(--font-weight-bold);
